@@ -48,9 +48,12 @@ Function call is realized deleberately by the programmer in any part of the code
      
   }
   
+### Flowchart figure
+  
   
 ## Knight Rider
 
-![Lab04_Timers](https://user-images.githubusercontent.com/91128806/137777664-03f0d089-4147-4621-8106-c3c88fc4b7fb.png)
+![Lab04_Timers](https://user-images.githubusercontent.com/91128806/137778729-a83df751-49d9-4017-a108-6da652a26a29.png)
+
 
 

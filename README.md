@@ -10,9 +10,9 @@ Link to my GitHub: (https://github.com/raulgoi/DigitalElectronics2_Lab4)
 
 | **Module** | **Number of bits** | **1** | **8** | **32** | **64** | **128** | **256** | **1024** |
 | ------ | -------------- | - | - | -- | -- | --- | --- | ---- |
-|Timer/Counter0 | 8 | 16u | 128u | -- | 1024 | -- | 4096 |
-| Timer/Counter1 | 16 | 4096 | 32768 | -- | 262144 | -- | 1048576 |
-| Timer/Counter2 | 8 | 16u | 128u | 512 | 1024 | 2048 | 4096 |
+|Timer/Counter0 | 8 | 16u | 128u | -- | 1024 | -- | 4096 | 16384 |
+| Timer/Counter1 | 16 | 4096 | 32768 | -- | 262144 | -- | 1048576 | 4194304 |
+| Timer/Counter2 | 8 | 16u | 128u | 512 | 1024 | 2048 | 4096 | 16384 |
 
 
 ## Differences between function and interrupt service routine:
@@ -44,12 +44,15 @@ Function call is realized deleberately by the programmer in any part of the code
   
     PORTC &= ~0x20; //Turn off the PIN
      
-     }
+       }
      
-  }
+     }
   
 ### Flowchart figure
-  
+
+
+![LAB04_2](https://user-images.githubusercontent.com/91128806/137796434-26c2f206-ae6b-4bbb-a24c-8a355461d0b1.png)
+
   
 ## Knight Rider
 
